@@ -4,8 +4,6 @@ The AAA Pattern which stands for (Arrange, Act, Assert) is a pattern used for st
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 npm install
 ```
